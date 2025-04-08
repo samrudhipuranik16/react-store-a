@@ -3,7 +3,7 @@ import "./App.css";
 import Header from "./components/Header";
 import Products from "./components/Products";
 import Footer from "./components/Footer";
-import Cart from "./components/cart";
+import Cart from "./components/Cart"
 import Login from "./components/Login";
 import Register from "./components/Register";
 import Orders from "./components/Orders";

@@ -21,7 +21,7 @@ export default function Register() {
     }
   };
   const handleDelete = (email) => {
-    setUsers(users.filter((value) => value.email != email));
+    setUsers(users.filter((value) => value.email !== email));
   };
   return (
     <div className="App-Register-Row">
